@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * https://www.hackerrank.com/challenges/maximizing-xor
+ */
+
+using System;
 
 namespace MaximizingXOR
 {

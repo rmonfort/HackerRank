@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * https://www.hackerrank.com/challenges/angry-children
+ */
+
+using System;
 
 namespace MaxMin
 {

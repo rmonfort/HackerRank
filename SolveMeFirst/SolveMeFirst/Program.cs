@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * https://www.hackerrank.com/challenges/solve-me-first
+ */
+
+using System;
 
 namespace SolveMeFirst
 {

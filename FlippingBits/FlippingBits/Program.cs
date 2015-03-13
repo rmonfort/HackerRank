@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * https://www.hackerrank.com/challenges/flipping-bits
+ */
+
+using System;
 
 namespace FlippingBits
 {
