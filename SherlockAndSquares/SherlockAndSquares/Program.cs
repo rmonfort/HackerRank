@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * https://www.hackerrank.com/challenges/sherlock-and-squares
+ */
+
+using System;
 
 namespace SherlockAndSquares
 {
