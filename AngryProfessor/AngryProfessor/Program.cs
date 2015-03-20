@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * https://www.hackerrank.com/challenges/angry-professor
+ */
+
+using System;
 using System.Linq;
 
 namespace AngryProfessor
