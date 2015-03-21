@@ -26,9 +26,10 @@ namespace AngryProfessor
 
                 // Cycle through the sorted array of arrival times
                 Array.Sort(studentArrivalTimes);
+                Array.Reverse(studentArrivalTimes);
                 foreach (var arrivalTime in studentArrivalTimes)
                 {
-                    if (arrivalTime < 0) // If a student is late
+                    if (arrivalTime > 0) // If a student is late
                     {
                         classSize--; // decrement the class size
                         if (classSize < minNumberOfStudentsNeeded) // If the class size is now less than the minimum number of students needed
