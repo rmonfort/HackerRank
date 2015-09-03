@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+ * https://www.hackerrank.com/challenges/simple-array-sum
+*/
+
+using System;
 using System.Linq;
 
 namespace SimpleArraySum
